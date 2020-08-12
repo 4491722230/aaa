@@ -1,3 +1,3 @@
 module aaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+1111111111111
 go 1.14
